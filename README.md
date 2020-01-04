@@ -1,4 +1,4 @@
-# scp_universe
+# SCP Universe
 
 A new Flutter project.
 
